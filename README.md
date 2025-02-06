@@ -18,14 +18,12 @@ Despite these advancements, challenges such as vaccine distribution disparities 
 3.  Global impact of vaccination
 
 ## DATA SOURCE
-The data used was sourced from the "Our World in Data" website:
-https://docs.owid.io/projects/covid/en/latest/dataset.html#download-our-complete-covid-19-dataset-csv-xlsx-json
+The data used was sourced from [the "Our World in Data" website:](https://docs.owid.io/projects/covid/en/latest/dataset.html#download-our-complete-covid-19-dataset-csv-xlsx-json)
 
-From there, **the Covid death dataset was scrapped:**
-https://1drv.ms/x/c/b8ac0467681b52ee/EcxN0IBXOqdHk7Tfuk5d86sBR5QIkD6wn_nKAUlBF6dpmA?e=gNCScR&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
+[the Covid death dataset was scrapped](https://1drv.ms/x/c/b8ac0467681b52ee/EcxN0IBXOqdHk7Tfuk5d86sBR5QIkD6wn_nKAUlBF6dpmA?e=gNCScR&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
 
-And **the Covid vaccination dataset was also scrapped:** 
-https://1drv.ms/x/c/b8ac0467681b52ee/EVSPncs5ZnVOkwVPUjqQb34BWbhH09VLZhWy-JkgKYLXeg?e=l6eV9K&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
+And
+[the Covid vaccination dataset was also scrapped](https://1drv.ms/x/c/b8ac0467681b52ee/EVSPncs5ZnVOkwVPUjqQb34BWbhH09VLZhWy-JkgKYLXeg?e=l6eV9K&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
 
 
 ## EXPLORATORY DATA ANALYSIS (EDA) 
