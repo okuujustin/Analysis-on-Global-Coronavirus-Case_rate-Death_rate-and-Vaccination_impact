@@ -40,7 +40,7 @@ EDA was conducted on the data using SQLServer:
 
 **Visualization on Tableau**
 
-[covid19.png]
+[covid19.png]()
 
 Detail below:
 https://public.tableau.com/views/coronavirusanalysis_17387076114360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
