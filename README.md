@@ -1,1 +1,1 @@
-# SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact
+# Analysis of Global Coronavirus Case Rate Death Rate and Impact of Vaccination
