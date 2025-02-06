@@ -36,7 +36,7 @@ EDA was conducted on the data using SQLServer:
 4.  using CTE to calculate the increment of vaccination by population
    
 **The link to the SQL queries is stated below:**
-[Read More](SQLQuery FOR CORONAVIRUS ANALYSIS.sql)
+![image](SQLQuery FOR CORONAVIRUS ANALYSIS.sql)
 
 **Visualization on Tableau**
 
