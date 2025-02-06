@@ -27,5 +27,15 @@ https://1drv.ms/x/c/b8ac0467681b52ee/EcxN0IBXOqdHk7Tfuk5d86sBR5QIkD6wn_nKAUlBF6d
 And **the Covid vaccination dataset was also scrapped:** 
 https://1drv.ms/x/c/b8ac0467681b52ee/EVSPncs5ZnVOkwVPUjqQb34BWbhH09VLZhWy-JkgKYLXeg?e=l6eV9K&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
 
+
+## EXPLORATORY DATA ANALYSIS (EDA) 
+EDA was conducted on the data using SQLServer:
+1.  Selecting the data necessary for the analysis
+2.  Joining Covid-death and vaccination tables
+3.  checking the rate at which COVID-19 spread globally
+4.  using CTE to calculate the increment of vaccination by population
+**The link to the SQL queries is stated below:**
+SQLQuery FOR CORONAVIRUS ANALYSIS.sql
+
 Visualization on Tableau
 https://public.tableau.com/views/coronavirusanalysis_17387076114360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
