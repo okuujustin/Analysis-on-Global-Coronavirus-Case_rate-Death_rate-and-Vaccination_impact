@@ -34,7 +34,9 @@ EDA was conducted on the data using SQLServer:
 2.  Joining Covid-death and vaccination tables
 3.  checking the rate at which COVID-19 spread globally
 4.  using CTE to calculate the increment of vaccination by population
+   
 **The link to the SQL queries is stated below:**
+
 SQLQuery FOR CORONAVIRUS ANALYSIS.sql
 
 Visualization on Tableau
