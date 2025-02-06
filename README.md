@@ -46,3 +46,16 @@ EDA was conducted on the data using SQLServer:
 [Click to view the full detail of the data visualization on Tableau](https://public.tableau.com/views/coronavirusanalysis_17387076114360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
+
+## MAJOR FINDINGS
+### These were my findings
+1. Cyprus with a population of 886,007, has 77.1% (683,111) of its population infected with the coronavirus. China with a population of over 1.4 billion has 6.97% (over 99 million people) of its population infected with the coronavirus. The virus would have wiped out the whole Cyprus population
+2. South America has the highest death rate by population, followed by Europe and Asia. Africa has the lowest death rate.
+3. Rate of vaccination was highest in Asia followed by South America.
+
+
+## MY RECOMMENDATION
+### The following are my recommendations:
+1.   Vaccination campaigns should continue across the continents. The more we vaccinate, the more coronavirus is reduced.
+2.   People across countries should be sensitized more to the risk involved in contracting COVID-19 and employing preventive measures to stay safe.
+3.   More funds should be invested in research and development not just to manage COVID-19 but to eradicate it
