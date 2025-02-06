@@ -37,7 +37,8 @@ EDA was conducted on the data using SQLServer:
    
 **The link to the SQL queries is stated below:**
 
-SQLQuery FOR CORONAVIRUS ANALYSIS.sql
+[Uploading SQLQuery FOR CORONAVIRUS ANALYSIS.sql…]()
+
 
 Visualization on Tableau
 https://public.tableau.com/views/coronavirusanalysis_17387076114360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
