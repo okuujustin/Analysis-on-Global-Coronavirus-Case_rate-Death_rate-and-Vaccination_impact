@@ -1,4 +1,7 @@
 # Analysis of Global Coronavirus Case Rate Death Rate and Impact of Vaccination
+# STATEMENT OF TASK
+**TO ANALYSIS THE GLOBAL CORONAVIRUS CASE RATE, DEATH RATE AND IMPACT OF VACCINATION**
+
 
 https://docs.owid.io/projects/covid/en/latest/dataset.html#download-our-complete-covid-19-dataset-csv-xlsx-json
 
