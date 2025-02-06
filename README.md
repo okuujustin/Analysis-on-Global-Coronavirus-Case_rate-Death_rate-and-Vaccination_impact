@@ -36,12 +36,10 @@ EDA was conducted on the data using SQLServer:
 4.  using CTE to calculate the increment of vaccination by population
    
 **The link to the SQL queries is stated below:**
-
 [SQL Query](Covid-19_SQLQuery.sql)
 
 **Visualization on Tableau**
 
 ![image](covid19.png)
 
-Detail below:
-https://public.tableau.com/views/coronavirusanalysis_17387076114360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Click to view the full detail of the data visualization on Tableau](https://public.tableau.com/views/coronavirusanalysis_17387076114360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
