@@ -20,7 +20,7 @@ Despite these advancements, challenges such as vaccine distribution disparities 
 ## DATA SOURCE
 The data used was sourced from [the "Our World in Data" website:](https://docs.owid.io/projects/covid/en/latest/dataset.html#download-our-complete-covid-19-dataset-csv-xlsx-json)
 
-
+### ANALYSIS PROCEDURES 
 **Two table datasets extracted for exploration**
 
 [Covid Death Table Dataset](https://1drv.ms/x/c/b8ac0467681b52ee/EcxN0IBXOqdHk7Tfuk5d86sBR5QIkD6wn_nKAUlBF6dpmA?e=gNCScR&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
